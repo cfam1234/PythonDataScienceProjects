@@ -27,4 +27,5 @@ This dataset was downloaded from Kaggle from the author Fedesoriano at https://w
  11) smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"*
  12) stroke: 1 if the patient had a stroke or 0 if not
   *Note: "Unknown" in smoking_status means that the information is unavailable for this patient
-*Attribute information from author
+
+*Attribute information provided by author*
